@@ -2,6 +2,12 @@
 
 Everyday Emacs profile README...
 
+* https://codeberg.org/EverydayEmacs/.profile
+
+* https://source.masscollabs.xyz/EverydayEmacs/.profile
+
+* https://github.com/EverydayEmacs
+
 ![Emacs](../img/gnuemacsref.png)
 
 ## Software and services License
