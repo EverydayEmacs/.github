@@ -2,7 +2,7 @@
 
 Everyday Emacs profile README...
 
-![Emacs](img/gnuemacsref.png)
+![Emacs](../img/gnuemacsref.png)
 
 ## Software and services License
 
